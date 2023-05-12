@@ -211,6 +211,7 @@ img {
 .slider .links a.contact-us {
   background: #df9320;
   color: var(--bs-white);
+  cursor: pointer;
 }
 @media (min-width: 400px) {
   .slider .links a.contact-us {
